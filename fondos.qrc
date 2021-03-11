@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="datos">
+    <file>Fondo.jpg</file>
+  </qresource>
+</RCC>
